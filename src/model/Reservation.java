@@ -21,6 +21,4 @@ public class Reservation {
                 ", Extras: " + extras +
                 "]");
     }
-
-
 }
